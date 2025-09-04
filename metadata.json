@@ -1,0 +1,5 @@
+{
+  "name": "Ala AI Chat",
+  "description": "A sleek and responsive chat application powered by the Google Gemini API, allowing users to have interactive and dynamic conversations with Ala, an advanced AI model.",
+  "requestFramePermissions": []
+}
